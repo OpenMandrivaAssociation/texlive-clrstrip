@@ -3,7 +3,7 @@ Version:	60363
 Release:	2
 Summary:	Place contents into a full width colour strip
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clrstrip
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clrstrip
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clrstrip.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clrstrip.doc.r%{version}.tar.xz
